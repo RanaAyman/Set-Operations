@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 	private int numberOfSets;
-
+//int test;
 	public static void main(String[] args) {
 		Main m = new Main();
 		ReadData read = new ReadData();
