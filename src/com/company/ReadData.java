@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class ReadData{
-
+        //int test;
 	private int numberOfSets;
 	// the whole sets we used U={Ahmed, Akram , Rana , Ayman}
 	private ArrayList<String> universe;
